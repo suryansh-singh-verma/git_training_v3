@@ -1,1 +1,1 @@
-this is a text sample file.
+this is a sample file txt now pulled form git and is edited on vi editor.
